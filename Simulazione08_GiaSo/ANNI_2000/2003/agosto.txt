@@ -1,0 +1,8 @@
+10 Horror TheWalkingDead Sky Serie 1230
+9 Fantasy ilTronoDiSpadeVII HBO serie 99999
+8 Fantasy HarryPotterIV Wb film 2.30
+2 Documentario UlisseSENZAPAPA Rai2 serie 1.30
+10 PsicologicoCrime ILSOPRANO_XI HBO serie 1.00 
+10 PsicologicoCrime ILSOPRANO_XII HBO serie 1.00 
+10 PsicologicoCrime ILSOPRANO_XIII HBO serie 1.00 
+10 PsicologicoCrime ILSOPRANO_XIV HBO serie 1.00 
