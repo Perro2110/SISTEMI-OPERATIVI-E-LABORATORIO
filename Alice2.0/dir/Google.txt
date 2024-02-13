@@ -1,0 +1,4 @@
+VM-126 contabilità x1.large operativa
+VM-136 contabilità x2.large operativa
+VM-156 contabilità x3.large operativa
+VM-156 contabilità x5.large inattiva

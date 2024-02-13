@@ -1,0 +1,4 @@
+2024 titolo1 cognome1 CasaEditrice1
+2024 titolo2 cognome2 CasaEditrice2
+2024 titolo3 cognome3 CasaEditrice3
+2024 titolo4 cognome4 CasaEditrice4

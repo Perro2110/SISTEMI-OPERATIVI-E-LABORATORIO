@@ -1,0 +1,4 @@
+VM-126 pollo x1.large operativa
+VM-136 contabilita x2.large operativa
+VM-156 contabilita x3.large operativa
+VM-156 contabilita x5.large inattiva
