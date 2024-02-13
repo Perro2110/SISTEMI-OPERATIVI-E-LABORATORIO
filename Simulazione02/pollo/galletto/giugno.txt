@@ -1,0 +1,6 @@
+10,fantasy,IlSignoreDeiPolli,polloStudios,film,65
+6,Scienze,LoCHiamavanoPollita,polloWestern,film,32
+9,HORROR,JackIlPollatore,polloENDFriend,serie,32
+7,PORNO,xxxPolloxxx,polloHub,film,5
+9,fantasy,IlSignoreDeiPolliDue,polloStudios,film,91
+8,fantasy,IlSignoreDeiPolliTre,polloStudios,film,80

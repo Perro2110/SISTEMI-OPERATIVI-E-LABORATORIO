@@ -1,0 +1,3 @@
+controlla.txt
+pollo
+verificafile.sh
